@@ -8,6 +8,7 @@ body {
 	max-width: 960px;
 	padding-left: 2.275%;
 	padding-right: 2.275%;
+	background-color: #e8e8e8 !important;
 }
 /* Header */
 header {
